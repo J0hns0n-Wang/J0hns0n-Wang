@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hns0n-Wang&layout=compact&theme=vision-friendly-dark)](https://github.com/J0hns0n-Wang/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0hns0n-Wang&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hns0n-Wang&langs_count=10)](https://github.com/J0hns0n-Wang/github-readme-stats)
-
+[![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0hns0n-Wang)](https://github.com/J0hns0n-Wang/github-readme-stats)
 
 <!--
 **J0hns0n-Wang/J0hns0n-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
