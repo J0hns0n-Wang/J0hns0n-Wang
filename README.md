@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <img height=200 align="center" src="https://github-stats-readme-sooty.vercel.app/api?username=J0hns0n-Wang&rank_icon=github&show_icons=true&theme=dark" />
-  <img height=200 align="center" src="https://github-stats-readme-sooty.vercel.app/api/top-langs?username=J0hns0n-Wang&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</div>
 
 <!--
 **J0hns0n-Wang/J0hns0n-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
