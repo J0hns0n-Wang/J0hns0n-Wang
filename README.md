@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hns0n-Wang&layout=compact)
-![langs](https://raw.githubusercontent.com/J0hns0n-Wang/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0hns0n-Wang&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **J0hns0n-Wang/J0hns0n-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
