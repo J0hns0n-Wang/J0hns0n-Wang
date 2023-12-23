@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![J0hns0n-Wang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=J0hns0n-Wang&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/J0hns0n-Wang/github-readme-stats#gh-dark-mode-only)
-[![J0hns0n-Wang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=J0hns0n-Wang&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/J0hns0n-Wang/github-readme-stats#gh-light-mode-only)
+[![J0hns0n-Wang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=J0hns0n-Wang&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/J0hns0n-Wang/github-readme-stats#gh-dark-mode-only)
+[![J0hns0n-Wang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=J0hns0n-Wang&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/J0hns0n-Wang/github-readme-stats#gh-light-mode-only)
 <!--
 **J0hns0n-Wang/J0hns0n-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
