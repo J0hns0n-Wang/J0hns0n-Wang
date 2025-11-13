@@ -1,7 +1,6 @@
 # Hey Hey Hey! 👋
 
 ### I'm Johnson
-Aspring Software Developer currently studying computer science at Cornell University as a junior
 
 
 ## Github Stats
