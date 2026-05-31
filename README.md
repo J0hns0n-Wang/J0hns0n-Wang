@@ -15,7 +15,7 @@ front, Flask / Express / Django holding it down on the back. Off-screen you'll f
 on the badminton court, chasing shuttlecocks instead of bugs. I care about clean
 interfaces, fast feedback loops, and shipping.
 
-`🎓 Cornell · CS` &nbsp; `⚡ full-stack` &nbsp; `🏸 badminton` &nbsp; `📍 UTC-04`
+`🎓 Cornell · CS`  &nbsp; `⚡ full-stack`  &nbsp; `🏸 badminton`  &nbsp; `📍 UTC-04`
 
 ## • Skills <sub>`// 02`</sub>
 
@@ -31,19 +31,13 @@ interfaces, fast feedback loops, and shipping.
   <img src="https://skillicons.dev/icons?i=react,vue,nodejs,django,tailwind,postgres,mongodb,docker,git&theme=dark&perline=9" alt="React, Vue, Node.js, Django, Tailwind, PostgreSQL, MongoDB, Docker, Git" />
 </p>
 
-## • Stats <sub>`// 03`</sub>
 
-<p>
-  <img height="170" alt="Johnson's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=J0hns0n-Wang&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0e1322&title_color=6f9cf0&text_color=a7adc6&icon_color=f4b483" />
-</p>
+## • Off the Clock <sub>`// 03`</sub>
 
-## • Off the Clock <sub>`// 04`</sub>
-
-> 🏸 **Now watching** — _Ao no Hako (Blue Box)_
+> 🏸 **Now watching** — *Ao no Hako (Blue Box)*
 > 🎧 **On repeat** — whatever's getting me through the late-night commits
 >
-> _Keep your eye on the bird._
+> *Keep your eye on the bird.*
 
 <!-- ── footer ───────────────────────────────────────────────────── -->
 <p align="center">
